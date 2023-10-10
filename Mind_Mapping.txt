@@ -1,0 +1,30 @@
+Create Json Object For  Questions. => done
+Start Creating HTML.
+Add Dummy Data.
+Styling.
+
+
+
+
+
+
+
+In Progress:
+
+
+Fetch Number of questions from json object.
+Show Questions Count + Questions Category.
+Show The Number Of Bullets Depend On Questions Count.
+Set The Number for Right And Wrong Answers.
+Create Count Down Timer.
+Fetch The Questions From Json Object.
+Show First Question.
+Check Answer And Hide Question then show the next one.
+If the Time end mark the questions as wrong and show next question.
+Add Class On Bullets When the questions are answered.
+If questions finished show the result.
+Ideas :
+many json objects and chosen language.
+Add many Questions and choose only 10 randomly.
+Randomize Answers with each refresh.
+

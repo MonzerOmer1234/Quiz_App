@@ -1,0 +1,74 @@
+[
+    
+    {
+        "title":"Why We Use <br> Element",
+        "answer_1": "To Make Text Bold",
+        "answer_2": "To Make Text Italic",
+        "answer_3": "To Add BreakLine",
+        "answer_4": "To Add Horizontal Line ",
+        "right_answer": "To Add BreakLine"
+    },
+    {
+        "title":"Is <img> Element has Attribute href",
+        "answer_1": "Yes",
+        "answer_2": "No, It's For Anchor Tag <a>",
+        "answer_3": "All Elements Has This Attribute",
+        "answer_4": "Answer 1 And 3 Are Right ",
+        "right_answer": "No, It's For Anchor Tag <a>"
+    },
+    {
+        "title":"How Can We Make Element Text Bold",
+        "answer_1": "Putting it Inside <b> Tag",
+        "answer_2": "Putting It Inside Strong Tag",
+        "answer_3": "Customize It with Font-Weight property in Css",
+        "answer_4": "All Answers are right",
+        "right_answer":  "All Answers are right"
+    },
+    {
+        "title":"May Audio Tags Have Source Tags Inside",
+        "answer_1": "No",
+        "answer_2": "Yes",
+        "answer_3": "Depends On the project",
+        "answer_4":  "No of the Answers are Right ",
+        "right_answer": "Yes"
+    },
+    {
+        "title":"From Where Can I Set The Title For HTML Page",
+        "answer_1": "Title Tag in Head",
+        "answer_2": "From Body",
+        "answer_3": "From Table",
+        "answer_4": "Inside A div ",
+        "right_answer": "Title Tag in Head"
+        },    {
+        "title":"HTML Refers For ? ",
+        "answer_1":  "They Are  The Letters at The beginning of the one who develop it",
+        "answer_2": "Hyper Text Markup Logic",
+        "answer_3": "Hyper Text Markup Languge",
+        "answer_4": "No Answer is Right",
+        "right_answer": "Hyper Text Markup Languge"
+    },
+    {
+        "title":"What Is The Difference Between Span And P",
+        "answer_1": "Span is block element but p is inline",
+        "answer_2": "Span is inline element but p is block element",
+        "answer_3": "P Can accept width,height, padding and margin but span is not",
+        "answer_4": "Answer 2 and 3",
+        "right_answer": "Answer 2 and 3"
+    },
+    {
+        "title":"What Is The Attribute Required To Make Multiple Select In Checkbox ",
+        "answer_1": "Selected",
+        "answer_2": "Chosen",
+        "answer_3": "Multiple",
+        "answer_4": "No one",
+        "right_answer": "Multiple"
+},
+    {
+        "title":"What Is The Cell Padding In Table Tag",
+        "answer_1": "It Is The Distance Between Cell Content And Cell Edges",
+        "answer_2": "It is  A Fixed Value Of Padding = 20px",
+        "answer_3": "It is  A Fixed Value Of Padding = 10px",
+        "answer_4": "It is  A Fixed Value Of Padding = 5px",
+        "right_answer": "It Is The Distance Between Cell Content And Cell Edges"
+    }
+]
